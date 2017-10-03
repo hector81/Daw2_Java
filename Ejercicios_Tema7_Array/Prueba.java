@@ -1,0 +1,23 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package Ejercicios_Tema7_Array;
+
+/**
+ *
+ * @author Alumno 10
+ */
+public class Prueba {
+ 
+    
+    
+    public static void main(String[] args) {
+        UtilidadesArray.generarFilaAleatoria();
+        UtilidadesArray.recorrerArray(UtilidadesArray.generarFilaAleatoria());
+        
+        
+    }
+    
+}
